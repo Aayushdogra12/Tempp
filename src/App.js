@@ -163,10 +163,10 @@ function App() {
                 </button>
 
                 <img
-                  src="/my.jpeg"
-                  alt="Your reward"
-                  className="reward-photo"
-                />
+  src={`${process.env.PUBLIC_URL}/my.jpeg`}
+  alt="Your reward"
+  className="reward-photo"
+/>
               </div>
             </div>
           )}
