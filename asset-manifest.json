@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Tempp/static/css/main.2deb744c.css",
+    "main.js": "/Tempp/static/js/main.63572c57.js",
+    "static/js/453.fb1409f2.chunk.js": "/Tempp/static/js/453.fb1409f2.chunk.js",
+    "index.html": "/Tempp/index.html",
+    "main.2deb744c.css.map": "/Tempp/static/css/main.2deb744c.css.map",
+    "main.63572c57.js.map": "/Tempp/static/js/main.63572c57.js.map",
+    "453.fb1409f2.chunk.js.map": "/Tempp/static/js/453.fb1409f2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2deb744c.css",
+    "static/js/main.63572c57.js"
+  ]
+}
